@@ -12,9 +12,9 @@ git add your_file
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/you_repository/you_project
+git remote add origin https://github.com/Heavens1976/Aboutme 
 
 git push -u origin master
 
 
-git clone https://github.com/you_account/your_project
+git clone https://github.com/Heavens1976/Aboutme
