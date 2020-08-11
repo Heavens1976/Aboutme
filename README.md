@@ -30,4 +30,4 @@ git status
 
 # laravel
 https://riselab.ru/ustanovka-i-nastrojka-rabochej-sredy-homestead-dlya-laravel/
-
+https://si-dev.com/ru/blog/homestead-setup
