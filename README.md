@@ -28,3 +28,6 @@ git checkout master
 
 git status
 
+# laravel
+https://riselab.ru/ustanovka-i-nastrojka-rabochej-sredy-homestead-dlya-laravel/
+
